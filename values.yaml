@@ -5,7 +5,7 @@ server_name: ""
 
 image:
   repository: ghcr.io/matrix-construct/tuwunel 
-  tag: v0.9.4
+  tag: v1.9.4
   pullPolicy: IfNotPresent
 
 ## The keys under config must be valid for the configuration file of
